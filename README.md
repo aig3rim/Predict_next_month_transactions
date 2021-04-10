@@ -1,3 +1,3 @@
-# Time_series
-A repo for a new blog post
-https://data.world/uci/perfume-data/workspace/file?filename=perfume_data.xlsx
+# Predict next month transactions using RFM features and linear regression
+
+
