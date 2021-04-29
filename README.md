@@ -9,6 +9,7 @@ As a data scientist working in marketing, I was curious about data engineering p
 
 ### RFM
 ![](img/RFM_Aika_small.png)
+
 Recency, frequency, monetary (RFM) is a marketing analysis tool used to identify a company's best customers by using the following measures:
 * Recency: How recently a customer has made a purchase
 * Frequency: How often a customer makes a purchase
