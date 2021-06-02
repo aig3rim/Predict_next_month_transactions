@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a source code for a [Medium](https://aigerimshopenova.medium.com/) blog post Predict Next Month Transactions with RFM Features.
+This is a source code for a [Medium](https://aigerimshopenova.medium.com/) blog post ["Predict Next Month Transactions with RFM Features"](https://towardsdatascience.com/predict-next-month-transactions-with-rfm-features-f6db106fe8d9?sk=a88ab98cab7802fdd8b32b1857496873).
 
 ### Motivation
 As a data scientist working in marketing, I was curious about data engineering part, which combines business understanding and hard skills. Therefore, I decided to create and test RFM features for a machine learning model. I believe it's quite important to have a good businees understanding before engineering featueres and know what kind of business question is needed to be answered.
